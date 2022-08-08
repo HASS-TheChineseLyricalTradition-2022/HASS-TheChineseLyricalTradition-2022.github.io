@@ -376,8 +376,8 @@ svg {
 
 .ui-section-testimonial--avatar {
   border-radius: var(--ui-radius-avatar);
-  height: 5rem;
-  width: 5rem;
+  height: 20rem;
+  width: 20rem;
 }
 
 .ui-section-testimonial--quote {
